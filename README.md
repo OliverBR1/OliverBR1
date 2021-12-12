@@ -1,4 +1,4 @@
-### Olá, Seja bem vindo ao meu perfil
+### Olá, Seja bem vindo(a) ao meu perfil
 
 - 🔭 Estou trabalhando com front-end.
 - 🌱 Estudando Angular.

@@ -1,7 +1,7 @@
 ### Olá, Seja bem vindo(a) ao meu perfil
 
-- 🔭 Estou trabalhando com front-end.
-- 🌱 Estudando Angular.
+- 🔭 Estou trabalhando com front-end no momento, mas possuo conhecimento em Java e AWS.
+- 🌱 Estudando Angular/Java/AWS.
 - 😄 Pronomes: ele/dele.
 
   <div>

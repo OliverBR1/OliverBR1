@@ -2,7 +2,6 @@
 
 - 🔭 Desenvolvedor fullstack JR.
 - 🌱 Aprendendo e melhorando os meus conhecimentos em Angular, Aws e Java.
-- 😄 Pronomes: ele/dele.
 
   <div>
     <a href="https://github.com/OliverBR1">

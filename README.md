@@ -1,7 +1,7 @@
 ### Olá, Seja bem vindo(a) ao meu perfil
 
 - 🔭 Desenvolvedor fullstack JR.
-- 🌱 Aprendendo e melhorando os meus conhecimentos em Angular e Java.
+- 🌱 Aprendendo e melhorando os meus conhecimentos em Angular, Aws e Java.
 - 😄 Pronomes: ele/dele.
 
   <div>

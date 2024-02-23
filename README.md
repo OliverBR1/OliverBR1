@@ -21,7 +21,7 @@
     
   </div>
 
-  [![Meus conhecimentos](https://skillicons.dev/icons?i=angular,aws,css,html,java,js,mongobd,spring)](https://skillicons.dev)
+  [![Meus conhecimentos](https://skillicons.dev/icons?i=angular,aws,css,html,java,js,mongodb,spring)](https://skillicons.dev)
     
 
   ##

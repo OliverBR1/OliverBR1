@@ -8,7 +8,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverBR1&layout=compact&langs_count=16&theme=tokyonight"/>
   </div>
   
-  [![Meus conhecimentos](https://skillicons.dev/icons?i=angular,aws,css,html,java,js,mongodb,spring,ts)](https://skillicons.dev)
+  [![Meus conhecimentos](https://skillicons.dev/icons?i=angular,aws,css,docker,eclipse,html,idea,java,js,jenkins,mongodb,mysql,spring,ts,vscode&perline=5)](https://skillicons.dev)
     
 
   ##

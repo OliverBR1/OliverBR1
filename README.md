@@ -21,6 +21,9 @@
     
   </div>
 
+  [![Meus conhecimentos](https://skillicons.dev/icons?i=angular,aws,css,html,java,js,mongobd,spring&perline=3)](https://skillicons.dev)
+    
+
   ##
   <div>
     <a href="https://www.linkedin.com/in/bruno-oliveira-ab03461a4/" target="_blanck"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

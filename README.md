@@ -3,7 +3,7 @@
 - 🔭 Desenvolvedor Java Júnior.
 - 🌱 Aprendendo e melhorando os meus conhecimentos em Angular, Aws e Java.
 
-  [![Meus conhecimentos](https://skillicons.dev/icons?i=angular,aws,css,docker,eclipse,html,idea,java,js,jenkins,mongodb,mysql,spring,ts,vscode&perline=5)](https://skillicons.dev)
+  [![Meus conhecimentos](https://skillicons.dev/icons?i=angular,aws,css,docker,eclipse,idea,java,js,jenkins,kafka,mongodb,mysql,spring,ts,vscode&perline=5)](https://skillicons.dev)
     
   ##
   <div>

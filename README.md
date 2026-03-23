@@ -1,6 +1,6 @@
 ### Olá, Seja bem vindo(a) ao meu perfil
 
-- 🔭 Desenvolvedor Java Júnior.
+- 🔭 Desenvolvedor Java.
 - 🌱 Aprendendo e melhorando os meus conhecimentos em Angular, Aws e Java.
 
   [![Meus conhecimentos](https://skillicons.dev/icons?i=angular,aws,css,docker,eclipse,git,idea,java,js,jenkins,kafka,mongodb,mysql,postgres,rabbitmq,spring,ts,vscode,&perline=6)](https://skillicons.dev)

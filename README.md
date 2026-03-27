@@ -96,8 +96,8 @@ public class Developer {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=OliverBR1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverBR1&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
@@ -114,7 +114,5 @@ Se você tem uma vaga que combine com meu perfil ou quer bater um papo sobre tec
 **💼 [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/bruno-oliveira-ab03461a4/)**
 
 <br/>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.seu-usuario)
 
 </div>

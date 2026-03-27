@@ -33,7 +33,7 @@ Desenvolvedor focado em construir **sistemas robustos e escaláveis** com Java. 
 ```java
 public class Developer {
 
-    private final String name = "Seu Nome";
+    private final String name = "Bruno Oliveira";
     private final String role = "Java Developer";
     private final String[] levels = { "Júnior", "Pleno" };
     private final String[] focus = { "Microsserviços", "APIs RESTful", "Cloud AWS" };

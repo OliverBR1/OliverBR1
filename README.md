@@ -11,8 +11,6 @@
 
 ### ☕ Java Developer · Microsserviços · Cloud · APIs RESTful
 
-![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-Júnior_|_Pleno-2ea44f?style=for-the-badge)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
@@ -35,7 +33,7 @@ public class Developer {
 
     private final String name = "Bruno Oliveira";
     private final String role = "Java Developer";
-    private final String[] levels = { "Júnior", "Pleno" };
+    private final String[] levels = { "Júnior"};
     private final String[] focus = { "Microsserviços", "APIs RESTful", "Cloud AWS" };
     private final boolean openToWork = true;
 
@@ -94,7 +92,7 @@ public class Developer {
 
 ## 📫 Vamos conversar?
 
-🟢 **Estou disponível para oportunidades como Desenvolvedor Java Júnior ou Pleno!**
+🟢 **Estou disponível para oportunidades como Desenvolvedor Java Júnior!**
 
 Se você tem uma vaga que combine com meu perfil ou quer bater um papo sobre tecnologia, fique à vontade para entrar em contato. Respondo rápido! 😄
 

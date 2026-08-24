@@ -26,7 +26,7 @@
 Desenvolvedor focado em construir **sistemas robustos e escaláveis** com Java. Trabalho com arquitetura de microsserviços, integração de APIs RESTful e serviços de nuvem, buscando sempre escrever código limpo e de fácil manutenção.
 
 > 🚀 **Disponível para novas oportunidades!**
-> Estou em busca de vagas como **Desenvolvedor Java Júnior ou Pleno**, em times que valorizem boas práticas de engenharia, colaboração e crescimento técnico. Quero contribuir com **soluções escaláveis** e continuar evoluindo em um ambiente desafiador.
+> Estou em busca de vagas como **Desenvolvedor Java Júnior**, em times que valorizem boas práticas de engenharia, colaboração e crescimento técnico. Quero contribuir com **soluções escaláveis** e continuar evoluindo em um ambiente desafiador.
 
 ```java
 public class Developer {

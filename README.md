@@ -14,7 +14,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
 
 </div>
@@ -23,7 +22,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor focado em construir **sistemas robustos e escaláveis** com Java. Trabalho com arquitetura de microsserviços, integração de APIs RESTful e serviços de nuvem, buscando sempre escrever código limpo e de fácil manutenção.
+Desenvolvedor focado em construir **sistemas escaláveis** com Java. Trabalho com arquitetura de microsserviços, integração de APIs RESTful e serviços de nuvem, buscando sempre escrever código limpo e de fácil manutenção.
 
 > 🚀 **Disponível para novas oportunidades!**
 > Estou em busca de vagas como **Desenvolvedor Java Júnior**, em times que valorizem boas práticas de engenharia, colaboração e crescimento técnico. Quero contribuir com **soluções escaláveis** e continuar evoluindo em um ambiente desafiador.

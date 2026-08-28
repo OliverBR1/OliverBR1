@@ -80,7 +80,7 @@ public class Developer {
 | Área | Tecnologias |
 |------|-------------|
 | 🏗️ Arquitetura | Microsserviços, APIs RESTful, Event-Driven |
-| ☁️ Cloud | AWS (EC2, S3, Lambda, SQS) |
+| ☁️ Cloud | AWS (EC2, S3, SNS, SQS) |
 | 📨 Mensageria | Kafka, RabbitMQ |
 | 🗄️ Banco de Dados | PostgreSQL, MySQL, MongoDB, Redis |
 | 🔄 CI/CD | Jenkins, GitHub Actions, Docker |
